@@ -6,7 +6,7 @@
 
 #define PIN            6
 
-#define NUMPIXELS      8
+#define NUMPIXELS      5
 
 #define STEPS         60
 
